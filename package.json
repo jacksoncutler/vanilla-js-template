@@ -2,7 +2,11 @@
   "name": "vanilla-js-template",
   "version": "1.0.0",
   "description": "",
-  "scripts": {},
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
   "keywords": [],
   "author": "Jackson Cutler",
   "license": "ISC",
