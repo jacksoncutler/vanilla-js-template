@@ -2,6 +2,8 @@
 
 A basic template for a website using a vanilla html/css/js structure built using Parcel. Parcel documentation can be found [here](https://parceljs.org/docs/).
 
+Note that this template includes a simple css reset.
+
 ## Quick Start
 
 Clone repo and navigate into root directory.
@@ -22,5 +24,5 @@ Parcel uses `dist` for its default build folder.
 
 ## Note
 
-To change port number during local development, add the following arg to `start` script in `package.json`:
-`-p [port-number]`.
+To change port number during local development, add the following arg to `start` script in `package.json`:<br>
+`-p [port-number]`
