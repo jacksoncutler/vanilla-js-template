@@ -1,3 +1,9 @@
+# npm
 /node_modules
 
+# parcel
+dist
+.parcel-cache
+
+#local
 .DS_Store

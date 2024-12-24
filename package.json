@@ -2,9 +2,11 @@
   "name": "vanilla-js-template",
   "version": "1.0.0",
   "description": "",
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [],
   "author": "Jackson Cutler",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.13.3"
+  }
 }
