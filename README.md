@@ -22,5 +22,5 @@ Parcel uses `dist` for its default build folder.
 
 ## Note
 
-To change port number during local development, add the following arg to start script in package.json:
+To change port number during local development, add the following arg to `start` script in `package.json`:
 `-p [port-number]`.
